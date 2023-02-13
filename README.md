@@ -16,6 +16,16 @@ In this project, I predicted fake job postings from a dataset listed with real-w
 
 The folders in this file are required:
 
-1. ‘data’ - this contains all .pkl files that are necessary to run the notebooks
+1. ‘data_folder’ - this contains all .pkl files that are necessary to run the notebooks, you can download from this link https://drive.google.com/drive/u/3/folders/1SNnWQBiwpCJjDusVaTR4hZ4_MeVp2sca
+
+   down load, unzip and put all 3 child folders in the root directory.
+
 2. requirement.txt
+
 3. .ipynb files
+
+4.  You also need 'lexvec-wikipedia-word-vectors' to run the notebook 5, you can download from this link.https://drive.google.com/file/d/1NtOjkNtbevgg5xWkcop62NYY332tmiJh/view
+
+   put the downloaded file in folder word_vectors.
+
+   
