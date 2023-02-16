@@ -29,6 +29,7 @@ The folders in this file are required:
    put the downloaded file in folder word_vectors.
 
 ##  Model outcome
+![outcome](pic/outcome.PNG)
 
    
    
