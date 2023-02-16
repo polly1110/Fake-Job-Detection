@@ -1,4 +1,4 @@
-## [README.md](https://github.com/laerivera/predicting-video-game-ratings-from-structural-characteristics#readme)
+## [README.md]
 
 # Fake job Detection: Investigating Fake job posts to avoid the job scam
 
@@ -11,7 +11,7 @@ In this project, I predicted fake job postings from a dataset listed with real-w
 1. Loading and Cleaning
 2. EDA
 3. Text Pre-Processing
-4. Modeling-v4
+4. Modeling-v4/ Modeling-v5 (model depolyment study included)
 5. Neural_network_and_Modeling
 
 The folders in this file are required:
@@ -28,4 +28,8 @@ The folders in this file are required:
 
    put the downloaded file in folder word_vectors.
 
+##  Model outcome
+
+   
+   
    
