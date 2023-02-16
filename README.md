@@ -49,9 +49,10 @@ The folders in this file are required:
 
 ## Best model
 - Logistic regression
+
 ![outcome](pic/logreg_confusion_matrix.PNG)
 ![outcome](pic/log_reg_auc.PNG)
-![outcome](pic/log_reg_report.PNG.PNG)
+![outcome](pic/log_reg_report.PNG)
 
    
    
